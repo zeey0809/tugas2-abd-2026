@@ -7,3 +7,9 @@ Nama Kelompok: suka - suka
 | 1 | Nurul Istiqomah | 202310370311225 | @zeey0809 |
 | 2 | Elvira Dwi Irianty Woretma | 202310370311456 | @Elviradwi110 |
 | 3 | Anisa Nabila Zahwa | 202310370311435 | @anisanabilazh |
+
+
+No	Nama	Peran / Kontribusi Utama
+1	[Nurul Istiqomah]	Lead Architect / Data Pipeline
+2	[Elvira Dwi Irianty Woretma]	Backend Query / DuckDB Engine
+3	[Anisa Nabila Zahwa]	Frontend Streamlit / Visualisasi
